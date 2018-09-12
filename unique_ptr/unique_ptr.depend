@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517294603 source:e:\shalini\data\training\training material\02c++\datafiles\unique_ptr\main.cpp
+	<memory>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1527595833 source:c:\00shalini\data\training\00 training material\02c++\datafiles\unique_ptr\main.cpp
+	<memory>
+	<iostream>
+	<vector>
+	<algorithm>
+
