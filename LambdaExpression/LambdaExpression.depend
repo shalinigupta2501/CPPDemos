@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1517209844 source:e:\shalini\data\training\training material\02c++\datafiles\lambdaexpression\main.cpp
+
+1517113955 source:e:\shalini\data\training\training material\02c++\datafiles\lambdaexpression\lambdawithfunctional.cpp
+
+1517216204 source:e:\shalini\data\training\training material\02c++\datafiles\lambdaexpression\lambdawithparameter.cpp
+
+1517207985 source:e:\shalini\data\training\training material\02c++\datafiles\lambdaexpression\lambdawithstl.cpp
+
+1517216204 source:c:\00shalini\data\training\00 training material\02c++\datafiles\lambdaexpression\lambdawithparameter.cpp
+
+1517290926 source:c:\00shalini\data\training\00 training material\02c++\datafiles\lambdaexpression\lambdawithstl.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1517209844 source:c:\00shalini\data\training\00 training material\02c++\datafiles\lambdaexpression\main.cpp
+
+1528710777 source:c:\00shalini\data\training\00 training material\02c++\datafiles\lambdaexpression\captureexample.cpp
+	<iostream>
+
+1517304324 source:c:\00shalini\data\training\00 training material\02c++\datafiles\lambdaexpression\lambdawithfunctional.cpp
+
